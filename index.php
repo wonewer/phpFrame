@@ -5,5 +5,6 @@
  *
  */
 class PHPCache{
+    public $type;//缓存类型
 
 }
